@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676897476515",
+    "project_id": "oswaldopaulo-ifsp-firebase",
+    "storage_bucket": "oswaldopaulo-ifsp-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676897476515:android:168b6a07d4dd6c82f99416",
+        "android_client_info": {
+          "package_name": "oswaldopaulo.ifsp.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676897476515-f27unp753okovc50cgoao212evmo5m4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs0hva3fkeqgbrKR1CIzC6P99XLOaSeMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676897476515-f27unp753okovc50cgoao212evmo5m4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
